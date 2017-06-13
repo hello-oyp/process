@@ -1,9 +1,6 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: yangping
- * Date: 2017/6/2
- * Time: 下午2:57
  */
 require_once __DIR__ . '/../vendor/autoload.php';
 

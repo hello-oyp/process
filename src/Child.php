@@ -1,9 +1,6 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: yangping
- * Date: 2017/5/24
- * Time: 下午2:27
  */
 
 namespace Yp\Process;
